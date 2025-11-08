@@ -1,6 +1,5 @@
-# 🤖 RAG_MCP_CODE_SEARCH
-
-**RAG_MCP_CODE_SEARCH** is an intelligent **AI-driven code retrieval and modification system** that leverages **RAG (Retrieval-Augmented Generation)** with **MCP (Model Context Protocol)**. It enables seamless **code search, draft generation, and automatic synchronization** between your **local workspace** and **Vector Database**.
+# Chat-with-CodeBase-Rag-Mcp
+**Chat-with-CodeBase-Rag-Mcp** is an intelligent **AI-driven code retrieval and modification system** that leverages **RAG (Retrieval-Augmented Generation)** with **MCP (Model Context Protocol)**. It enables seamless **code search, draft generation, and automatic synchronization** between your **local workspace** and **Vector Database**.
 
 ---
 
